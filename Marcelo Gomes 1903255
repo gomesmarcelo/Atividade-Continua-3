@@ -1,0 +1,22 @@
+Atividade continua 3
+Comandos linux:
+1:o comando "cd" para ir para um diretório. Por exemplo, se você estiver na pasta de início e quiser ir para a pasta de downloads, poderá digitar “Downloads de cd”.
+2:Para saber em qual diretório você está, você pode usar o comando “pwd” . Isso nos dá o caminho absoluto, o que significa o caminho que começa na raiz.
+3:o comando mkdir quando precisar criar uma pasta ou diretório. Por exemplo, se você deseja fazer um diretório chamado “DIY”, você pode digitar “mkdir DIY ”.
+4:rmdir só pode ser usado para excluir um diretório vazio. Para excluir um diretório que contém arquivos, use rm .
+ 5:o comando mv para mover arquivos através da linha de comando. Também podemos usar o comando mv para renomear um arquivo.
+ 6:O comando locate é usado para localizar um arquivo em um sistema Linux, assim como o comando de pesquisa no Windows.
+ 6a;Este comando é útil quando você não sabe onde um arquivo foi salvo ou o nome real do arquivo.
+ 6b:Usar o argumento -i com o comando ajuda a ignorar maiúsculas e minúsculas (não importa se é maiúsculo ou minúsculo).
+ 7:sudo significa "SuperUser Do". Portanto, se você deseja que qualquer comando seja executado com privilégios administrativos ou de root, você pode usar o comando sudo .
+ 8:o comando df para ver o espaço em disco dispAlterar o nome de usuário git config --global user.name "nome do usuário"onível em cada uma das partições em seu sistema.
+ 9:uname para mostrar as informações sobre o sistema que sua distribuição Linux está executando. 
+ 9a:Usando o comando “ uname -a ” imprime a maioria das informações sobre o sistema. Isso imprime a data de lançamento do kernel, versão, tipo de processador, etc.
+ 10:chmod para tornar um"arquivo executável e para alterar as permissões concedidas a ele no Linux.
+ Comandos Git:
+ 1:Para encontrar o nome de usuário "git config --global user.name"
+ 2:Para encontrar o email "git config --global user.email"
+3:Alterar o nome de usuário "git config --global user.name "nome do usuário"
+4:Alterar o email "git config --global user.email "email do usuário"
+5:Iniciar um repositório "git init"
+6:Baixar" um repositório "git clone link"
